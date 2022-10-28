@@ -7,6 +7,7 @@ As part of my contribution to the Outreachy December 2022 cohort. This repo will
 <p>The consumption of fossil fuels has contributed to an increase in atmospheric carbon dioxide levels. In 2022, Europe recorded its hottest summer, on average 0.8°C hotter than in 2018 for August and 0.4°C hotter than in 2021 for summer.</p>
 <p>In August 2022, temperatures were 0.3°C higher than the average for the years 1991 to 2020, the highest they had ever been.</p>
 <p>Another environmental disruption that may have an impact on many people's health is ozone depletion. The presence of ozone shields humans from UV radiation, which can damage proteins and DNA, effectively ending life as we know it.</p>
+<img src="/images/anomaly.png">
 <h3>The impact of climate change in Malawi can be divided into 4 categories</h3>
 <ol>
 <li>On health; due to floods and droughts the country suffers from chronic diseases such as malaria, cholera etc. High infant mortality associated with malnutrition is rampant.</li>  
